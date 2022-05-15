@@ -1,0 +1,26 @@
+[
+{
+    "id": 0,
+    "productTitle": "Air Fryer 1",
+    "productDescription": "Fry until Crash!!!",
+    "price": 1050
+},
+{
+    "id": 1,
+    "productTitle": "Air Fryer 2",
+    "productDescription": "Fry until Fire!!!",
+    "price": 2000
+},
+{
+    "id": 2,
+    "productTitle": "Air Fryer 3",
+    "productDescription": "Fry until Blast!!!",
+    "price": 3500
+},
+{
+    "id": 3,
+    "productTitle": "Air Fryer 4",
+    "productDescription": "Fry until Boom!!!",
+    "price": 4000
+}
+]
